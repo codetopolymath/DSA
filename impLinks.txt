@@ -1,0 +1,5 @@
+MUST DO PATTERNS [STRIVERS] 
+https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+
+STRIVERS SDE SHEET
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
